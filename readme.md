@@ -12,7 +12,8 @@
 ## VSCode
 
 ### 配置代理
-[](https://goproxy.io/zh/)
+[goproxy](https://goproxy.io/zh/)
+比下载百度网盘更放心
 
 
 # 第一个程序
